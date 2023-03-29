@@ -1,0 +1,6 @@
+name: LightExchanger
+version: '${project.version}'
+main: net.parcival.lightexchanger.Lightexchanger
+api-version: 1.19
+authors: [ Parcival ]
+description: Exchange torches for light block
